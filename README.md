@@ -1,3 +1,3 @@
-# app_report
+# QrScanner_Flutter
 
-A new Flutter project.
+Este proyecto es un ejemplo de un scanner de Qr desarrollado en Flutter.
